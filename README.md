@@ -17,7 +17,7 @@
 ---
 
 📍 배포 링크 (GitHub Pages)
- [👉 간단한 채팅 ](https://infiniste.github.io/Weather-App/)  
+ [👉 간단한 채팅 ](https://infiniste.github.io/Simple-Chat-Application/)  
 해당 링크를 클릭하면 웹에서 바로 실행할 수 있습니다! 
 
 ---
