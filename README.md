@@ -16,12 +16,6 @@
 
 ---
 
-📍 배포 링크 (GitHub Pages)
- [👉 간단한 채팅 ](https://infiniste.github.io/Simple-Chat-Application/)  
-해당 링크를 클릭하면 웹에서 바로 실행할 수 있습니다! 
-
----
-
 ## 🚀 실행 방법
 **1️⃣ 서버 실행**
 1. **`ChatServer.java`** 파일을 실행합니다.
