@@ -34,7 +34,7 @@
   
 ---
 
-- ## 📸 Screenshots
+## 📸 Screenshots
 - ✅ Chat Client GUI
 - (https://github.com/infiniste/Simple-Chat-Application/blob/0819e8152b323853034355d3c73d40b3ebda8c3a/screenshot%201.png)
 - https://github.com/infiniste/Simple-Chat-Application/blob/0819e8152b323853034355d3c73d40b3ebda8c3a/screenshot%202.png
