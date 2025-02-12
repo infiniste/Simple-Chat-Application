@@ -28,9 +28,9 @@
 ---
 
 ## 🔧 개발 환경
-- **Java 8 이상**
-- **Eclipse 또는 IntelliJ IDEA** (추천)
-- **JDK 8+ (또는 최신 버전)**
+- **Java 8
+- **Eclipse 
+- **JDK 8+
   
 ---
 
